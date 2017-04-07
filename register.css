@@ -1,0 +1,32 @@
+body{margin-top: 0;
+background:gray;}
+nav{background:red;
+}
+li{display: inline;
+	padding: 30px;
+text-decoration: none;
+}
+ul{text-align:right;
+
+float:top;
+margin-top: 0
+}
+a{text-decoration: none;}
+
+button{color: red}
+button:hover{color: green;}
+
+p {text-align: center;
+
+
+font-size: 50px;
+color:yellow;}
+input{text-align: center;
+color:red
+;}
+label{color:blue;
+	font-size:20px;
+float: 50}
+form{text-align: center;
+font-size:80;
+margin:20px;}

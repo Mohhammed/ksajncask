@@ -1,0 +1,26 @@
+
+
+li{display:inline;
+padding:30px;
+margin:top;
+text-decoration: none;
+float:right;
+
+
+}
+a{text-align: left;
+	padding:30px;
+	text-decoration: none;
+	display: inline;
+
+
+}
+nav{background: yellow;
+	
+;}
+body{background: gray}
+div{text-align: middle}
+button{color:green;
+}
+button:hover{color:red;}
+body{background: blue}
